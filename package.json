@@ -46,18 +46,18 @@
   },
   "devDependencies": {
     "@cordisjs/eslint-config": "^1.1.1",
-    "@koishijs/plugin-server": "^3.1.8",
-    "@types/node": "^20.11.30",
-    "atsc": "^2.0.1",
+    "@koishijs/plugin-server": "^3.2.3",
+    "@types/node": "^20.14.8",
+    "atsc": "^2.1.0",
     "esbuild": "^0.18.20",
     "esbuild-register": "^3.5.0",
     "eslint": "^8.57.0",
-    "koishi": "^4.17.4",
-    "typescript": "^5.4.3",
+    "koishi": "^4.17.9",
+    "typescript": "^5.6.0-dev.20240624",
     "yml-register": "^1.2.5"
   },
   "peerDependencies": {
-    "koishi": "^4.17.4"
+    "koishi": "^4.17.9"
   },
   "dependencies": {
     "qface": "^1.4.1"
